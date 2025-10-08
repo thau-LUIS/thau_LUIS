@@ -230,7 +230,7 @@ export default function Home() {
               transition={{ duration: 0.6 }}
               className="card-ios p-8"
             >
-              <h3 className="text-2xl font-semibold mb-6">We're Hiring! 🚀</h3>
+              <h3 className="text-2xl font-semibold mb-6">We&apos;re Hiring! 🚀</h3>
               <div className="space-y-4">
                 <div className="p-4 bg-[#1a1a1a] rounded-lg border border-[#404040]">
                   <p className="font-medium mb-2">PhD Position</p>
@@ -262,7 +262,7 @@ export default function Home() {
               Interested in our research?
             </h3>
             <p className="text-gray-400 mb-6">
-              We're always looking for talented researchers and collaborators passionate about AI and machine learning.
+              We&apos;re always looking for talented researchers and collaborators passionate about AI and machine learning.
             </p>
             <button
               onClick={() => window.location.href = 'mailto:luisfernando.dharo@upm.es'}
